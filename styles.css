@@ -264,7 +264,7 @@ section {
 @media (max-width: 576px) {
     h1 {
         font-size: 2rem;
-        top: 6rem;
+        top: 15rem;
     }
 
     .heading-text {
